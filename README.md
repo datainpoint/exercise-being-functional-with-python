@@ -1,7 +1,10 @@
-# suggested-answer-midterm-ntnu-fall-2020
+# midterm-ntnu-fall-2020
 
-> Suggested answers for NTNU Fall 2020.
+> Midterm for NTNU Fall 2020.
 
 ## Topics
 
-- pandas
+- Syntax
+- Functions
+- Conditionals
+- Iterations
